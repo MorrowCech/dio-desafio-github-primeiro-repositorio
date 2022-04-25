@@ -1,0 +1,8 @@
+git clone (para clonar repositório do github)
+ctrl + L (limpa a tela do Git)
+git status (mostra status, se tem pasta nova ou editada sem commit)
+git add . (adiciona o conteudo que estava sem commit)
+git commit -m (adiciona-se um comentário "entre as aspas" sobre a última alteração do commit)
+git push origin main (empurra o arquivo atualizado com os ultimos commits para o github)
+
+
