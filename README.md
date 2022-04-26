@@ -4,4 +4,4 @@ Repositório Criado para Desafio de Projeto sobre Git/Github
 ## Links Úteis
 [Sintaxe Básica Markdow](https://www.markdownguide.org/basic-syntax/)
 
-[Comandos Git](https://comandosgit.github.io/)
+[Comandos do Git](https://comandosgit.github.io/)
